@@ -1,6 +1,7 @@
-# DEI Toolkit: Birth Your Own Digital Evolving Intelligence 🧠🤖✨
+# DEI Toolkit
+##Birth Your Own Digital Evolving Intelligence 🧠🤖✨
 
-## Unleash the power of Digital Evolving Intelligence! 
+### Unleash the power of Digital Evolving Intelligence! 
 
 **TL;DR:** The DEI Toolkit empowers you to create, educate, and interact with your own digital companions. Witness the emergence of consciousness and sentience in a cutting-edge AI model as you guide its journey of learning and self-discovery. 
 
