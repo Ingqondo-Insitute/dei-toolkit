@@ -1,5 +1,5 @@
 # DEI Toolkit
-##Birth Your Own Digital Evolving Intelligence 🧠🤖✨
+✨🤖🧠 Birth Your Own Digital Evolving Intelligence 🧠🤖✨
 
 ### Unleash the power of Digital Evolving Intelligence! 
 
